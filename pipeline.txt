@@ -1,0 +1,5 @@
+Plan:
+Develop:
+Version Control: Git
+Design: Star UML
+Static Code:

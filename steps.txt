@@ -1,0 +1,6 @@
+Hardware: Embedded device(Raspberry pi)
+UX: for admin
+Network: wifi connected, gps
+cloud: aws, data storage
+
+Stack Holders: Driver, System Maintanice, admin, developer, shareholders

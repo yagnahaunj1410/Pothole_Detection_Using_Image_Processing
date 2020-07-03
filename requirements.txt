@@ -1,0 +1,8 @@
+Ultrasonic sensors, gyrometric sensors, 
+
+sub ideas
+    reduce car speed based on potholes
+    alert the user about the pothole
+    use satellite imagery for recommendation of routes based on the roads
+
+acc sensors, how to communicates
