@@ -45,15 +45,33 @@ But there are fewer apps that tell the condition of the road, whether it is good
 
 #### OUR TEAM
 
-| Team Member | Member Name | Roll Number |
-| --- | --- | --- |
-| Member 1 | Anurag Peddi | 17MCME13 |
-| Member 2 | Yagnahaun Jonnadula | 17MCME22 |
+| Team Name | 
+| --- |
+| Project Team |
+| Software Designer and Developer |
+| Database Administrator |
+| Change Control Board |
+| Testers |
+| Analysts |
 
 ### DEVELOPMENT PROCESS
 
-The embedded device processes the incoming stream of video and detects any pothole in the flow, if any, it immediately intimates the user with a signal.
-It also saves the information of pothole detected and coordinates in a file for cross-validation.
+The strategy used to develop the module is agile model.
+
+Agile model was selected for the following reasons:
+
+* It allows for an improved quality of the product
+
+* It focuses on the user reviews about the product
+
+* It involves stakeholder engagement with the team
+
+* It provides a unique opportunity for clients or customers
+to be involved throughout the project
+
+* Another key benefit of an Agile methodology is that,
+unlike a Waterfall model, it allows for change in the
+functionality of the model 
 
 ## SYSTEM ANALYSIS
 
