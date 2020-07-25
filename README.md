@@ -105,7 +105,7 @@ It also saves, the information of pothole detected and coordinates in a file for
 The system can also provide it with three features like:
 * Detect pothole and Alert driver
 
-* Alert the driver about the pothole
+* Upload the detected pothole to the cloud 
 
 Type of software which we are going to use is python scripts, drivers are our expected users, are going to use this in embedded systems.
 
